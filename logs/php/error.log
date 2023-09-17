@@ -1,0 +1,50 @@
+[16-Sep-2023 18:10:16 UTC] PHP Warning:  Undefined variable $options in /Users/kshitijphulare/Local Sites/xyzbank/app/public/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[16-Sep-2023 18:10:16 UTC] PHP Warning:  Undefined variable $enabled_extensions in /Users/kshitijphulare/Local Sites/xyzbank/app/public/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[16-Sep-2023 18:10:16 UTC] PHP Warning:  Undefined variable $options in /Users/kshitijphulare/Local Sites/xyzbank/app/public/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[16-Sep-2023 18:10:16 UTC] PHP Warning:  Undefined variable $enabled_extensions in /Users/kshitijphulare/Local Sites/xyzbank/app/public/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2324
+[16-Sep-2023 18:51:28 UTC] Sync process for Gutenberg Blocks has started.
+[16-Sep-2023 18:51:28 UTC] CATEGORY:Importing categories..
+[16-Sep-2023 18:51:29 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[16-Sep-2023 18:51:29 UTC] CATEGORY:Completed category import.
+[16-Sep-2023 18:51:29 UTC] BLOCK: Getting Total Blocks
+[16-Sep-2023 18:51:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[16-Sep-2023 18:51:29 UTC] BLOCK: Requests count 4
+[16-Sep-2023 18:51:29 UTC] BLOCK: Importing request 1 ..
+[16-Sep-2023 18:51:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[16-Sep-2023 18:51:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-Sep-2023 18:51:29 UTC] BLOCK: Completed request 1
+[16-Sep-2023 18:51:29 UTC] BLOCK: Importing request 2 ..
+[16-Sep-2023 18:51:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[16-Sep-2023 18:51:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-Sep-2023 18:51:29 UTC] BLOCK: Completed request 2
+[16-Sep-2023 18:51:29 UTC] BLOCK: Importing request 3 ..
+[16-Sep-2023 18:51:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[16-Sep-2023 18:51:30 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-Sep-2023 18:51:30 UTC] BLOCK: Completed request 3
+[16-Sep-2023 18:51:30 UTC] BLOCK: Importing request 4 ..
+[16-Sep-2023 18:51:30 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[16-Sep-2023 18:51:30 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-Sep-2023 18:51:30 UTC] BLOCK: Completed request 4
+[16-Sep-2023 18:51:30 UTC] SITE: Getting Total Sites
+[16-Sep-2023 18:51:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[16-Sep-2023 18:51:30 UTC] SITE: Request count 2
+[16-Sep-2023 18:51:30 UTC] SITE: Importing request 1 ..
+[16-Sep-2023 18:51:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[16-Sep-2023 18:51:30 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-Sep-2023 18:51:30 UTC] SITE: Completed request 1
+[16-Sep-2023 18:51:30 UTC] SITE: Importing request 2 ..
+[16-Sep-2023 18:51:30 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[16-Sep-2023 18:51:31 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-Sep-2023 18:51:31 UTC] SITE: Completed request 2
+[16-Sep-2023 18:51:31 UTC] Sync process for Gutenberg Blocks is done.
+[16-Sep-2023 21:28:17 UTC] Cron reschedule event error for hook: forminator_send_export, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[16-Sep-2023 22:08:47 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 22:08:47 UTC] Cron reschedule event error for hook: forminator_process_report, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":[],"interval":60}
+[16-Sep-2023 22:35:00 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 23:49:31 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Sep-2023 23:49:31 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[17-Sep-2023 00:29:51 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 06:47:30 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 06:47:30 UTC] Cron reschedule event error for hook: forminator_general_data_protection_cleanup, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[17-Sep-2023 10:55:24 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[17-Sep-2023 10:55:24 UTC] Cron reschedule event error for hook: forminator_general_data_protection_cleanup, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
